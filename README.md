@@ -6,4 +6,4 @@ A calculator plugin for TShock
 calculator.use
 
 ##Commands
-/calc <operation>
+/calc \<operation>
