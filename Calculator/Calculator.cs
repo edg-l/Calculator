@@ -41,8 +41,6 @@ namespace Calculator
 
         void OnInitialize(EventArgs args)
         {
-            //Adding a command is as simple as adding a new ``Command`` object to the ``ChatCommands`` list.
-            //The ``Commands` object is available after including TShock in the file (`using TShockAPI;`)
             Commands.ChatCommands.Add(new Command("calculator.use", calculator, "calc")
             {
                 HelpText = "Usage: /calc <operation>"
