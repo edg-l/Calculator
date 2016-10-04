@@ -9,7 +9,7 @@ using DynamicExpresso;
 
 namespace Calculator
 {
-    [ApiVersion(1, 23)]
+    [ApiVersion(1, 25)]
     public class Calculator : TerrariaPlugin
     {
         #region Info
