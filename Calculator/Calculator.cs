@@ -9,14 +9,14 @@ using DynamicExpresso;
 
 namespace Calculator
 {
-    [ApiVersion(1, 25)]
+    [ApiVersion(2, 0)]
     public class Calculator : TerrariaPlugin
     {
         #region Info
         public override string Name { get { return "Calculator"; } }
         public override string Author { get { return "Ryozuki"; } }
         public override string Description { get { return "A calculator"; } }
-        public override Version Version { get { return new Version(1, 0, 0); } }
+        public override Version Version { get { return new Version(1, 0, 1); } }
         #endregion
 
         public Calculator(Main game) : base(game)
