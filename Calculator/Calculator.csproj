@@ -61,11 +61,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="tshock-references\README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="References\Newtonsoft.Json.dll" />
-    <Content Include="References\TerrariaServer.exe" />
-    <Content Include="References\TShockAPI.dll" />
+    <Content Include="tshock-references\Mono.Data.Sqlite.dll" />
+    <Content Include="tshock-references\MySql.Data.dll" />
+    <Content Include="tshock-references\Newtonsoft.Json.dll" />
+    <Content Include="tshock-references\OTAPI.dll" />
+    <Content Include="tshock-references\TerrariaServer.exe" />
+    <Content Include="tshock-references\TShockAPI.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

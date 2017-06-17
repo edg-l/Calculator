@@ -1,0 +1,3 @@
+[submodule "Calculator/tshock-references"]
+	path = Calculator/tshock-references
+	url = https://github.com/Ryozuki/tshock-references
