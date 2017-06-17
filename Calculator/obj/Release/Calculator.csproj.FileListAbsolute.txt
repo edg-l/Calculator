@@ -8,3 +8,14 @@ C:\Users\Edgar\Desktop\tshockplugins\Calculator\Calculator\bin\Release\DynamicEx
 C:\Users\Edgar\Desktop\tshockplugins\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Edgar\Desktop\tshockplugins\Calculator\Calculator\obj\Release\Calculator.dll
 C:\Users\Edgar\Desktop\tshockplugins\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\Calculator.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\DynamicExpresso.Core.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\OTAPI.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\TerrariaServer.exe
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\TShockAPI.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\bin\Release\DynamicExpresso.Core.xml
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\obj\Release\Calculator.dll
+C:\Users\Edgar\Desktop\TSPLUGINS\Calculator\Calculator\obj\Release\Calculator.pdb
